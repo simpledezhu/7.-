@@ -24,6 +24,7 @@ namespace _7._4二维数组的使用
                 Console.WriteLine(outstr+"   ");
             }
 
+
             Console.ReadKey();
         }
     }

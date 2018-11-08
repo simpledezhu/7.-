@@ -11,6 +11,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.3二维数组的声明", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.4二维数组的使用", "7.4二维数组的使用\7.4二维数组的使用.csproj", "{B47EC1CA-0A61-46F2-803B-92EAFFCBBA59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.5遍历数组", "7.5遍历数组\7.5遍历数组.csproj", "{3393FC9D-E33D-491E-8092-9B3A281CFBC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.6查找数组元素", "7.6查找数组元素\7.6查找数组元素.csproj", "{B9FB770D-79DC-4F8C-BB22-55B12A3CA7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.7 数组排序", "7.7 数组排序\7.7 数组排序.csproj", "{A7A8A468-7F02-4CB2-979D-EC825BE7B123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.8 数组的合并与拆分", "7.8 数组的合并与拆分\7.8 数组的合并与拆分.csproj", "{AC0F2F0A-01B7-46AB-8581-A49A7E3E0091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.9 ArrayList类元素添加", "7.9 ArrayList类元素添加\7.9 ArrayList类元素添加.csproj", "{7F218924-D0B9-4661-A550-E86631FD5003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.10 ArrayList类中元素的删除", "7.10 ArrayList类中元素的删除\7.10 ArrayList类中元素的删除.csproj", "{39D9705C-525C-4049-A01B-06A1549A1068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.11arrayList元素遍历和查询", "7.11arrayList元素遍历和查询\7.11arrayList元素遍历和查询.csproj", "{B626009D-983B-4CD3-82C7-062B2756E1A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +47,34 @@ Global
 		{B47EC1CA-0A61-46F2-803B-92EAFFCBBA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B47EC1CA-0A61-46F2-803B-92EAFFCBBA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B47EC1CA-0A61-46F2-803B-92EAFFCBBA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3393FC9D-E33D-491E-8092-9B3A281CFBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3393FC9D-E33D-491E-8092-9B3A281CFBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3393FC9D-E33D-491E-8092-9B3A281CFBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3393FC9D-E33D-491E-8092-9B3A281CFBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FB770D-79DC-4F8C-BB22-55B12A3CA7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB770D-79DC-4F8C-BB22-55B12A3CA7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB770D-79DC-4F8C-BB22-55B12A3CA7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB770D-79DC-4F8C-BB22-55B12A3CA7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A8A468-7F02-4CB2-979D-EC825BE7B123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A8A468-7F02-4CB2-979D-EC825BE7B123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A8A468-7F02-4CB2-979D-EC825BE7B123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A8A468-7F02-4CB2-979D-EC825BE7B123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0F2F0A-01B7-46AB-8581-A49A7E3E0091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0F2F0A-01B7-46AB-8581-A49A7E3E0091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0F2F0A-01B7-46AB-8581-A49A7E3E0091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0F2F0A-01B7-46AB-8581-A49A7E3E0091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F218924-D0B9-4661-A550-E86631FD5003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F218924-D0B9-4661-A550-E86631FD5003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F218924-D0B9-4661-A550-E86631FD5003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F218924-D0B9-4661-A550-E86631FD5003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D9705C-525C-4049-A01B-06A1549A1068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D9705C-525C-4049-A01B-06A1549A1068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D9705C-525C-4049-A01B-06A1549A1068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D9705C-525C-4049-A01B-06A1549A1068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B626009D-983B-4CD3-82C7-062B2756E1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B626009D-983B-4CD3-82C7-062B2756E1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B626009D-983B-4CD3-82C7-062B2756E1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B626009D-983B-4CD3-82C7-062B2756E1A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
